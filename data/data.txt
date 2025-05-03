@@ -1,0 +1,47 @@
+Q: How do I access Ultimatix?
+A: Visit https://www.ultimatix.net from your TCS-provided system. Use your employee ID and password to log in. If you're outside the TCS network, use VPN or Mobile Authenticator.
+
+Q: How do I apply for leave in TCS?
+A: Go to Ultimatix > My HR > Leave > Apply Leave. Select the type of leave (Privilege, Sick, etc.), provide the date range, and submit. Your reporting manager will approve it.
+
+Q: How can I raise a service request in TCS?
+A: Go to Ultimatix > Tools > Global Helpdesk. Choose your category and raise a ticket. You'll receive a reference ID to track the request.
+
+Q: What is GEMS in TCS?
+A: GEMS stands for 'Global Engagement Management System'. It is used to recognize and reward employees for their performance and contributions.
+
+Q: How to mark attendance in TCS?
+A: Attendance is usually tracked automatically via system login. You can check it through Ultimatix > My Time > Attendance. Manual marking is only required in exceptional cases.
+
+Q: What is the process to claim travel reimbursement?
+A: Login to Ultimatix > ESS > Travel and Expenses. Upload receipts, select project code, and submit your claim for approval.
+
+Q: How to reset Ultimatix password?
+A: Go to https://www.ultimatix.net, click on "Forgot Password?", and follow the steps. You may need your mobile authenticator or registered email to verify identity.
+
+Q: What is TCS Xplore?
+A: TCS Xplore is a digital learning platform for fresher training. It contains self-paced modules on technical and soft skills, assessments, and capstone projects.
+
+Q: How to update my resume in TCS?
+A: Login to Ultimatix > My Profile > Resume. Upload your updated resume or use the resume builder tool to create one directly in the portal.
+
+Q: How to switch projects within TCS?
+A: You can apply for IJP (Internal Job Posting) through Ultimatix or get in touch with your HR Business Partner. Approval from your current project manager is required.
+
+Q: What is the appraisal cycle in TCS?
+A: TCS follows a bi-annual appraisal process through the PMS (Performance Management System). Employees set goals, receive feedback, and are rated by supervisors.
+
+Q: How to download salary slips in TCS?
+A: Visit Ultimatix > My Finance > Payroll > View Payslips. Select the month and download the slip in PDF format.
+
+Q: What is the bench policy in TCS?
+A: When an employee is not assigned to any project, they are on the "bench". During this time, they are expected to upskill and actively seek internal opportunities.
+
+Q: What are the mandatory trainings in TCS?
+A: Mandatory trainings include Code of Conduct, POSH (Prevention of Sexual Harassment), Data Privacy, and Secure Coding. These are usually found in the iEvolve portal.
+
+Q: How do I connect to TCS VPN?
+A: Use the FortiClient VPN provided by TCS. Enter your VPN credentials and verify using TCS Authenticator if required.
+
+Q: What is the process to resign from TCS?
+A: Submit your resignation on Ultimatix > My HR > Separation. A notice period is required, and all company assets must be returned.
